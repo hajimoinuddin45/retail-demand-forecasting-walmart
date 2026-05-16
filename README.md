@@ -618,7 +618,7 @@ Retail_Demand_Forecasting/
 ## Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/hajimoinuddin45/retail-demand-forecasting-walmart.git
 cd retail-demand-forecasting-walmart
 ```
 
